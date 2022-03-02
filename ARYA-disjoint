@@ -30,7 +30,6 @@ struct node* find(int a){
 }
 
 return NULL;
-
 }
 
 
